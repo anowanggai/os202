@@ -10,8 +10,8 @@ ZCZC W00 90 L06 Reading Refereces/Books/Documents
 ZCZC W01 100 L02 ZOOM related
 ZCZC W01 10 L03 GitHub related
 ZCZC W01 30 L09 AsDos: asking
-ZCZC W01 60 L05 GSGS related
-ZCZC W01 360 L11 Assignment #1
+ZCZC W01 120 L05 GSGS related
+ZCZC W01 420 L10 Assignment (General)
 ZCZC W01 180 L21 VirtualBox
 ZCZC W01 20 L22 YouTube
 
