@@ -8,5 +8,5 @@ M. Fadhil Qorano Wanggai | 1806173582
 ## Operating Systems Weekly Top Ten List
 
 [Week 00](W00/)
-[Week 1](W01/)
+[Week 01](W01/)
 
