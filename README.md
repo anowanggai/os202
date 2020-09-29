@@ -7,7 +7,7 @@ M. Fadhil Qorano Wanggai | 1806173582
 
 ## Operating Systems Weekly Top Ten List
 
-[Week 0](https://anowanggai.github.io/os202/w00)
+[Week 00](W00/)
 [Week 1](https://anowanggai.github.io/os202/w01)
 [Week 2](https://anowanggai.github.io/os202/w02)
 
