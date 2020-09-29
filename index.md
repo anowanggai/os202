@@ -1,7 +1,5 @@
 # Welcome to my GitHub page
 
-# M . Fadhil Qorano | 1806173582
-
 [Log](TXT/mylog/)
 
 ## Operating Systems Weekly Top Ten List
