@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBF95yUIBEAC/7mJV3Py2Vxa3iLClWuEohwUpvrj4aphG9Pw+0OzguBlsOO5t
@@ -51,3 +52,12 @@ Ks4rDcrrTsB2wFyANHyvxa45KDtcZ7GHSdEOrVjg64ChfIVpP81nN9500UW1xBQd
 1RyYDw/MoneOmDFMxpmEgw==
 =hsq/
 -----END PGP PUBLIC KEY BLOCK-----
+=======
+# TOP 10 Rank
+ZCZC W00 alifyandra
+ZCZC W00 aliasadillah
+ZCZC W00 akbarrafs
+ZCZC W01 baguspr
+ZCZC W01 alifyandra
+ZCZC W01 althof3
+>>>>>>> 02177a30aefe82da0e14abf7bf1eecf6aef97c59

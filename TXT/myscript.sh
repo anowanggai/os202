@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBF95yUIBEAC/7mJV3Py2Vxa3iLClWuEohwUpvrj4aphG9Pw+0OzguBlsOO5t
@@ -51,3 +52,23 @@ Ks4rDcrrTsB2wFyANHyvxa45KDtcZ7GHSdEOrVjg64ChfIVpP81nN9500UW1xBQd
 1RyYDw/MoneOmDFMxpmEgw==
 =hsq/
 -----END PGP PUBLIC KEY BLOCK-----
+=======
+FILES="my*.txt my*.sh"
+SHA="SHA256SUM"
+
+rm -f $SHA $SHA.asc
+
+echo "sha256sum $FILES > $SHA"
+sha256sum $FILES > $SHA
+
+echo "sha256sum -c $SHA"
+sha256sum -c $SHA
+
+echo "gpg -o $SHA.asc -a -sb $SHA"
+gpg -o $SHA.asc -a -sb $SHA
+
+echo "gpg --verify $SHA.asc $SHA"
+gpg --verify $SHA.asc $SHA
+
+exit 0
+>>>>>>> 02177a30aefe82da0e14abf7bf1eecf6aef97c59
