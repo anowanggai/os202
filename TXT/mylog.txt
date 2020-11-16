@@ -39,3 +39,9 @@ ZCZC W05 120 L10 Assignment (General)
 ZCZC W05 60 L99 Asking friend for help
 ZCZC W05 40 L05 GSGS related
 ZCZC W05 10 L00 General Log
+
+ZCZC W06 180 L10 Assignment (General)
+ZCZC W06 20 L99 Asking Friend
+ZCZC W06 10 L09 AsDos: asking
+ZCZC W06 30 L22 YouTube
+ZCZC W06 10 L00 General Log
