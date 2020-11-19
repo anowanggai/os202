@@ -17,3 +17,6 @@ ZCZC W04 bilazahra
 ZCZC W05 althof3
 ZCZC W05 alifyandra
 ZCZC W05 baguspr
+ZCZC W06 aulia-adil
+ZCZC W06 arditas
+ZCZC W06 aks861
