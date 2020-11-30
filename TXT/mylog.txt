@@ -49,3 +49,7 @@ ZCZC W06 10 L00 General Log
 ZCZC W07 120 L10 Assignment (General)
 ZCZC W07 30 L99 Asking Friend
 ZCZC W07 10 L00 General Log
+
+ZCZC W08 180 L10 Assignment (General)
+ZCZC W08 5 L00 General Log
+ZCZC W08 5 L99 Asking friend
